@@ -32,8 +32,8 @@
 		"versions": "1.18 – 18.18.2"
 	},
 	{
-		"packFormat": "9",
-		"versions": "1.19 – 1.19.2"
+		"packFormat": "75.0",
+		"versions": "1.21.11"
 	},
 	{
 		"packFormat": "12",
@@ -50,6 +50,10 @@
 	{
 		"packFormat": "18",
 		"versions": "1.20.2"
+	},
+	{
+		"packFormat": "22",
+		"versions": "1.20.3 – 1.20.4"
 	},
 	{
 		"packFormat": "22",
